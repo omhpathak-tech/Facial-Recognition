@@ -1,0 +1,14 @@
+name: lfw-face-recognition
+channels: 
+  - conda-forge
+  - defaults 
+dependencies:
+  - tensorflow=2.3
+  - protobuf
+  - jupyterlab
+  - opencv
+  - matplotlib
+  - imgaug
+  - requests
+  - dlib
+  - scikit-learn
